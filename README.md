@@ -1,2 +1,2 @@
-# Solidity_Test1
+# Token creation
 My first Solidity project 
